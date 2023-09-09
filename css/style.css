@@ -1,0 +1,36 @@
+#search, #createAcc{
+    height: auto;
+    width: auto;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#search{
+    border-radius: 30px;
+    color: rgb(15, 189, 189);
+    border-color: rgb(15, 189, 189);
+    background: white;
+    margin: 50px 50px 2px 30px;
+    padding: 5px 50px;
+}
+
+#mas{
+    border-radius: 50%;
+    border: none;
+    color: white;
+    background: aqua;
+    margin: 20px 50px 2px 30px;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+#createAcc{
+    border: 3px solid black;
+    color: white;
+    background: rgb(94, 167, 197);
+    box-shadow: 5px 5px black;
+    margin: 20px 50px 0px 30px;
+    padding: 10px 30px;
+}
